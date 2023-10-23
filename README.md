@@ -1,3 +1,4 @@
+![logo](https://github.com/MuhammadMouaz/MuhammadMouaz/blob/main/github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm MMouaz</h1>
 <h3 align="center">A passionate DevOps Engineer with Expertise in Python,AWS,Docker,K8s</h3>
 <img align="right" alt="coding"wodth="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
