@@ -5,7 +5,6 @@
 My expertise includes AWS, Terraform, Docker, Kubernetes, GitLab, and GitHub. I specialize in designing cloud infrastructures, automating CI/CD pipelines, and ensuring seamless deployments. I enjoy collaborating with teams and finding practical solutions to technical challenges.
 
 I believe in continuous learning and creating value through efficient and well-optimized systems. Let’s connect to share ideas and explore opportunities to work together!</h3>
-<img align="right" alt="coding"wodth="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmouaz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmouaz" /> </p>
 
 - 🌱 I’m currently Working on **AWS, Terraform, Docker, Kubernetes, GitLab, CI/CD and GitHub**
