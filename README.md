@@ -1,20 +1,20 @@
 ![logo](https://github.com/MuhammadMouaz/MuhammadMouaz/blob/main/github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm MMouaz</h1>
-<h3 align="center">A passionate DevOps Engineer with Expertise in Python,AWS,Docker,K8s</h3>
+<h3 align="center">I’m a DevOps Engineer passionate about building reliable, scalable systems that simplify complex workflows. Every day is an opportunity to learn, innovate, and contribute to meaningful projects.
+
+My expertise includes AWS, Terraform, Docker, Kubernetes, GitLab, and GitHub. I specialize in designing cloud infrastructures, automating CI/CD pipelines, and ensuring seamless deployments. I enjoy collaborating with teams and finding practical solutions to technical challenges.
+
+I believe in continuous learning and creating value through efficient and well-optimized systems. Let’s connect to share ideas and explore opportunities to work together!</h3>
 <img align="right" alt="coding"wodth="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmouaz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmouaz" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Automation with Different Market Tools**
+- 🌱 I’m currently Working on **AWS, Terraform, Docker, Kubernetes, GitLab, CI/CD and GitHub**
 
-- 👨‍💻 All of my projects are available at [https://mmouaz.online/portfolio/](https://mmouaz.online/portfolio/)
-
-- 📝 I regularly write articles on [https://mmouaz.online/](https://mmouaz.online/)
-
-- 💬 Ask me about **Python,AWS,Docker and K8s**
+- 💬 Ask me about **AWS, Terraform, Docker, Kubernetes, GitLab, CI/CD and GitHub**
 
 - 📫 How to reach me **mmouazofficial@yahoo.com**
 
-- ⚡ Fun fact **I am Continuous Learner Passionate Traveler and Helping others**
+- ⚡ Fun fact **I am a Continuous Learner Passionate Traveler and Helping others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
